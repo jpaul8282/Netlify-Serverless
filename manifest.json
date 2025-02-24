@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "1.45.3",
+    "version": "1.45.3 (Stable)",
+    "platform": [
+      {
+        "arch": "x64",
+        "os": "darwin",
+        "name": "macOS 64-bit (10.15+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-1.45.3-darwin-x64.dmg"
+      },
+      {
+        "arch": "arm64",
+        "os": "darwin",
+        "name": "macOS arm64 (M1) (11.0+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-1.45.3-darwin-arm64.dmg"
+      },
+      {
+        "arch": "x64",
+        "os": "linux",
+        "name": "Ubuntu 64-bit (16.04+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass_1.45.3_amd64.deb"
+      },
+      {
+        "arch": "x64",
+        "os": "linux",
+        "name": "RedHat 64-bit (8+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-1.45.3.x86_64.rpm"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-1.45.3-win32-x64.exe"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+) (MSI)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-1.45.3-win32-x64.msi"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+) (Zip)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-1.45.3-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "_id": "1.45.3-readonly",
+    "version": "1.45.3 (Readonly Edition Stable)",
+    "platform": [
+      {
+        "arch": "x64",
+        "os": "darwin",
+        "name": "macOS 64-bit (10.15+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.45.3-darwin-x64.dmg"
+      },
+      {
+        "arch": "arm64",
+        "os": "darwin",
+        "name": "macOS arm64 (M1) (11.0+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.45.3-darwin-arm64.dmg"
+      },
+      {
+        "arch": "x64",
+        "os": "linux",
+        "name": "Ubuntu 64-bit (16.04+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-readonly_1.45.3_amd64.deb"
+      },
+      {
+        "arch": "x64",
+        "os": "linux",
+        "name": "RedHat 64-bit (8+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.45.3.x86_64.rpm"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.45.3-win32-x64.exe"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+) (MSI)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.45.3-win32-x64.msi"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+) (Zip)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.45.3-win32-x64.zip"
+      }
+    ]
+  },
+  {
+    "_id": "1.45.3-isolated",
+    "version": "1.45.3 (Isolated Edition Stable)",
+    "platform": [
+      {
+        "arch": "x64",
+        "os": "darwin",
+        "name": "macOS 64-bit (10.15+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.45.3-darwin-x64.dmg"
+      },
+      {
+        "arch": "arm64",
+        "os": "darwin",
+        "name": "macOS arm64 (M1) (11.0+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.45.3-darwin-arm64.dmg"
+      },
+      {
+        "arch": "x64",
+        "os": "linux",
+        "name": "Ubuntu 64-bit (16.04+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-isolated_1.45.3_amd64.deb"
+      },
+      {
+        "arch": "x64",
+        "os": "linux",
+        "name": "RedHat 64-bit (8+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.45.3.x86_64.rpm"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.45.3-win32-x64.exe"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+) (MSI)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.45.3-win32-x64.msi"
+      },
+      {
+        "arch": "x64",
+        "os": "win32",
+        "name": "Windows 64-bit (10+) (Zip)",
+        "download_link": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.45.3-win32-x64.zip"
+      }
+    ]
+  }
+]
